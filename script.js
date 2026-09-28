@@ -1,5 +1,5 @@
 // ⚠️ Remplacer par l'URL Render obtenue à l'étape A.5
-const API_URL = "https://over-live.onrender.com/";
+const API_URL = "https://over-live.onrender.com";
 
 async function chargerMessages() {
   try {
